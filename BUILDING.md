@@ -1,0 +1,1 @@
+افتح المجلد في Android Studio مع JDK 17 وAndroid SDK Platform 34. نفّذ Gradle Sync ثم Build > Build APK(s). الملف: app/build/outputs/apk/debug/app-debug.apk. يتطلب البناء الأول الإنترنت لتنزيل Gradle Plugin وZXing. الحد الأدنى API 23 والاستهداف API 28. قد تفرض XOS تأكيد الاتصال أو ترفضه.
